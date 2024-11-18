@@ -9,7 +9,7 @@ const state = {
     values: {
         timerId: null,
         countdowntimerid: setInterval(contagem, 1000),
-        velocidadedoralph: 450,
+        velocidadedoralph: 800,
         hitposition: 0,
         result: 0,
         tempocorrido: 50,
