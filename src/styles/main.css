@@ -53,7 +53,25 @@
     margin-top: 1rem;
 }
 
+@media (min-width: 350px) {
+    .panel {
+        font-size: 10px; 
+        margin-top: 1rem;
+    }
 
+    .square {
+        height: 100px;
+        width: 100px;
+    }
+
+    .menu {
+        height: 100px;
+    }
+
+    .menu-lives {
+        height: 40px;
+    }
+}
 @media (min-width: 431px) {
     .panel {
         font-size: 16px; 
